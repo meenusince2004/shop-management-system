@@ -24,8 +24,10 @@ This is a simple Java-based console application to simulate a basic shop managem
 4. Compile the code:
    ```bash
    javac ShopManagement.java
+
 5. Run the application:
-java ShopManagement
+   ```bash
+   java ShopManagement
 
 📂 Classes Used
 Product: Represents each product with name, price, and quantity.
@@ -37,19 +39,22 @@ User: Handles admin authentication.
 ShopManagement: The main class with the program's logic and user interface.
 
 📷 Demo
-Enter username: admin
-Enter password: password
 
-1. List Products
-2. Add Product
-3. Exit
-Enter your choice: 2
-Enter product name: Pen
-Enter product price: 10
-Enter product quantity: 100
-Product added successfully.
+ ```mathematica
+ Enter username: admin
+ Enter password: password
+
+ 1. List Products
+ 2. Add Product
+ 3. Exit
+ Enter your choice: 2
+ Enter product name: Pen
+ Enter product price: 10
+ Enter product quantity: 100
+ Product added successfully.
 
 📌 Note
+
 This project is intended for basic educational use and can be extended to include more features like:
 
 -Product deletion or update
