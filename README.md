@@ -53,7 +53,7 @@ This is a simple Java-based console application to simulate a basic shop managem
    Enter product price: 10
    Enter product quantity: 100
    Product added successfully.
-
+   ```
 
 ## 📌 Note
 
