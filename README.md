@@ -55,7 +55,7 @@ This is a simple Java-based console application to simulate a basic shop managem
    Product added successfully.
 
 
-> ## 📌 Note
+## 📌 Note
 
 This project is intended for basic educational use and can be extended to include more features like:
 
